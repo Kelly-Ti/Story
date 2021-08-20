@@ -1,1 +1,1 @@
-Here is chapter3, I am learning git and github!
+Here is chapter3, I am making some changes!
